@@ -52,6 +52,13 @@
 
 
 
+
+
+### October 18, 2024 
+- [ryangjchandler/commonmark-blade-block: 在 Markdown 模板中嵌入 Laravel Blade 代码。](https://github.com/ryangjchandler/commonmark-blade-block) 
+- [roblaszczak/vgt: 可视化 Go 测试的缺失工具](https://github.com/roblaszczak/vgt) 
+### October 17, 2024 
+- [amir9480/vscode-laravel-extra-intellisense: 该扩展为 VSCode 的 laravel 项目添加了额外的自动完成功能。](https://github.com/amir9480/vscode-laravel-extra-intellisense) 
 ### October 16, 2024 
 - [atk4/ui: 适用于 Web 应用程序的强大且易于使用的 PHP 框架](https://github.com/atk4/ui) 
 - [atk4/data: 适用于 SQL 和高延迟数据库的数据访问 PHP 框架](https://github.com/atk4/data) 
